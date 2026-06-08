@@ -1,21 +1,21 @@
-# Task 1: Understanding Dataset & Data Types
+Task 1: Understanding Dataset & Data Types
 
-## Internship Task Submission
+Internship Task Submission
 
-**Dataset:** BigMart Sales Dataset
+Dataset: BigMart Sales Dataset
 
-### Tools Used
+Tools Used
 
 * Python
 * Pandas
 * NumPy
 * Jupyter Notebook
 
-## Objective
+Objective
 
 Perform basic exploratory data analysis (EDA) to understand the dataset structure, variable types, and data quality.
 
-## Tasks Performed
+Tasks Performed
 
 * Loaded the dataset using Pandas
 * Examined dataset structure using `info()`
@@ -25,26 +25,26 @@ Perform basic exploratory data analysis (EDA) to understand the dataset structur
 * Identified unique values in categorical columns
 * Documented data types
 
-## Dataset Summary
+Dataset Summary
 
 * Total Rows: 8523
 * Total Columns: 12
 * Numerical Variables: 5
 * Categorical Variables: 7
 
-### Missing Values
+Missing Values
 
 | Column      | Missing Values |
 | ----------- | -------------: |
 | Item_Weight |           1463 |
 | Outlet_Size |           2410 |
 
-### Data Types
+Data Types
 
 * float64
 * int64
 * string
 
-## Outcome
+Outcome
 
 Successfully performed exploratory data analysis (EDA) and gained an understanding of the dataset structure, variable types, and missing-value distribution.
